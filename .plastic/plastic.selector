@@ -1,0 +1,4 @@
+repository "Multicolour@wechat_os_qy0xepze7nb13spmmam4a4usc@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
